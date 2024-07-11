@@ -11,24 +11,32 @@ CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 CCTV2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
 CCTV2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
-CCTV2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227256/index.m3u8
-CCTV3,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV3,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 CCTV4,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
-CCTV4,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV4,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227229/index.m3u8
-CCTV5,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
 CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
-CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227260/index.m3u8
-CCTV6,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV6,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV7,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
-CCTV7,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV7,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u8
-CCTV8,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV8,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
 CCTV9,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 CCTV9,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
@@ -36,24 +44,31 @@ CCTV9,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226715/index.m
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV10,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
-CCTV10,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV10,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV11,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 CCTV11,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227233/index.m3u8
-CCTV11,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV11,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 CCTV12,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
-CCTV12,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV12,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227237/index.m3u8
-CCTV13,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226985/index.m3u8 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV13,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226985/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV14,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
-CCTV14,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV14,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV15,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV15,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227270/index.m3u8
-CCTV15,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV15,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227148/index.m3u8
-CCTV16,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV16,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 CCTV17,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 
